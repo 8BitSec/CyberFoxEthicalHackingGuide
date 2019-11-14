@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">CyberFox - Ethical Hacking Guide</string>
+    <string name="title_home">HOME</string>
+    <string name="title_disclaimer">DISCLAIMER</string>
+    <string name="title_aboutus">ABOUT US</string>
+
+    <string name="disclaimer_heading">IMPORTANT DISCLAIMER</string>
+    <string name="disclaimer">All the tips, tricks and techniques taught in \"CyberFox- Ethical Hacking Guide\" are for educational purposes only.\n\nThe developers of this app will not be responsible for any malicious/illegal activity undertaken by the users of this mobile app.\n\nEthical hacking is about hacking with ethics and must be performed with prior consent of the target.\n\nTo practice penetration testing, you should consider setting up your own laboratory or register on online penetration testing forums like HackTheBox or Vulnhub.</string>
+
+    <string name="about_us">The app \"CyberFox - Ethical Hacking Guide\" is developed by Ayan Khan and Jatin Sejwal.\n\nBoth the developers are students of B.Sc. (H) Computer Science in SSCBS, Delhi University and are CyberSecurity aspirants.\n\nThis app is developed to help those interested in Ethical Hacking, a vital part of CyberSecurity.\n\nThe tips, tricks and techniques taught here in this app are written keeping in mind the latest technology &amp; security trends and updates.</string>
+    <string name="cyber_laws">Cyber Crime is not defined in Information Technology Act 2000 nor in the I.T. Amendment Act 2008
+nor in any other legislation in India. In fact, it cannot be too. Offence or crime has been dealt with
+elaborately listing various acts and the punishments for each, under the Indian Penal Code, 1860 and
+quite a few other legislations too. Hence, to define cyber crime, we can say, it is just a combination of
+crime and computer. To put it in simple terms ‘any offence or crime in which a computer is used is a
+cyber crime’. Interestingly even a petty offence like stealing or pick-pocket can be brought within the
+broader purview of cyber crime if the basic data or aid to such an offence is a computer or an
+information stored in a computer used (or misused) by the fraudster. The I.T. Act defines a computer,
+computer network, data, information and all other necessary ingredients that form part of a cyber crime.\n\n
+In a cyber crime, computer or the data itself the target or the object of offence or a tool in committing
+some other offence, providing the necessary inputs for that offence. All such acts of crime will come
+under the broader definition of cyber crime.\nBeing the first legislation in the nation on technology, computers and e-
+commerce and e-communication, the Act was the subject of extensive debates, elaborate reviews and
+detailed criticisms, with one arm of the industry criticizing some sections of the Act to be draconian and
+other stating it is too diluted and lenient. There were some conspicuous omissions too resulting in the
+investigators relying more and more on the time-tested (one and half century-old) Indian Penal Code
+even in technology based cases with the I.T. Act also being referred in the process and the reliance
+more on IPC rather on the ITA.\n\nThe ITA-2000 defines many important words used in common computer parlance like
+‘access’, ‘computer resource’, ‘computer system’, ‘communication device’, ‘data’, ‘information’,
+’security procedure’ etc. The definition of the word ‘computer’ itself assumes significance here.
+‘Computer’ means any electronic magnetic, optical or other high-speed data processing device or
+system which performs logical, arithmetic, and memory functions by manipulations of electronic,
+magnetic or optical impulses, and includes all input, output, processing, storage, computer software, or
+communication facilities which are connected or related to the computer in a computer system or
+computer network;
+So is the word ‘computer system’ which means a device or a collection of devices with input, output
+and storage capabilities. Interestingly, the word ‘computer’ and ‘computer system’ have been so widely
+defined to mean any electronic device with data processing capability, performing computer functions
+like logical, arithmetic and memory functions with input, storage and output capabilities. A careful
+reading of the words will make one understand that a high-end programmable gadgets like even a
+washing machine or switches and routers used in a network can all be brought under the definition.
+Similarly the word ‘communication devices’ inserted in the ITAA-2008 has been given an inclusive
+definition, taking into its coverage cell phones, personal digital assistance or such other devices used to
+transmit any text, video etc like what was later being marketed as iPad or other similar devices on Wi-fi
+and cellular models. Definitions for some words like ‘cyber café’ were also later incorporated in the
+ITAA 2008 when ‘Indian Computer response Emergency Team’ was included.\n\nConclusion: To sum up, though a crime-free society is Utopian and exists only in dream-
+land, it should be constant endeavour of rules to keep the crimes lowest. Especially in a
+society that is dependent more and more on technology, crime based on electronic offences are
+bound to increase and the law makers have to go the extra mile compared to the fraudsters, to
+keep them at bay. Technology is always a double-edged sword and can be used for both the
+purposes – good or bad. Steganography, Trojan Horse, Scavenging (and even DoS or DDoS)
+are all technologies and per se not crimes, but falling into the wrong hands with a criminal
+intent who are out to capitalize them or misuse them, they come into the gamut of cyber crime
+and become punishable offences. Hence, it should be the persistent efforts of rulers and law
+makers to ensure that technology grows in a healthy manner and is used for legal and ethical
+business growth and not for committing crimes.\n\nIt should be the duty of the three stake holders viz i) the rulers, regulators, law makers and
+investigators ii) Internet or Network Service Providers or banks and other intermediaries and iii) the users to take care of information security playing their respective role within the
+permitted parameters and ensuring compliance with the law of the land.</string>
+
+    <string name="introduction">Ethical hacking and ethical hacker are terms used to describe hacking performed by a company or individual to help identify potential threats on a computer or network. An ethical hacker attempts to bypass system security and search for any weak points that could be exploited by malicious hackers. This information is then used by the organization to improve the system security, in an effort to minimize or eliminate any potential attacks.\n\nWhat constitutes ethical hacking?\nFor hacking to be deemed ethical, the hacker must obey the following rules:\n\n1.Expressed (often written) permission to probe the network and attempt to identify potential security risks.\n\n2.You respect the individual\'s or company\'s privacy.\n\n3.You close out your work, not leaving anything open for you or someone else to exploit at a later time.\n\n4.You let the software developer or hardware manufacturer know of any security vulnerabilities you locate in their software or hardware, if not already known by the company.\n\n\nThe term \"ethical hacker\" has received criticism at times from people who say that there is no such thing as an \"ethical\" hacker. Hacking is hacking, no matter how you look at it and those who do the hacking are commonly referred to as computer criminals or cyber criminals. However, the work that ethical hackers do for organizations has helped improve system security and can be said to be quite effective and successful. Individuals interested in becoming an ethical hacker can work towards a certification to become a Certified Ethical Hacker, or CEH. This certification is provided by the International Council of E-Commerce Consultants (EC-Council). The exam itself costs about $500 to take and consists of 125 multiple-choice questions in version 8 of the test (version 7 consisted of 150 multiple-choice questions).
+    </string>
+
+    <string name="typesofhacking">
+        We can segregate hacking into different categories, based on what is being hacked. Here is a set of examples –\n\n
+    ● WEBSITE HACKING −> Hacking a website means taking unauthorized control over a web server and its associated software such as databases and other interfaces.\n\n
+    ● NETWORK HACKING −> Hacking a network means gathering information about a network by using tools like Telnet, NS lookup, Ping, Tracert, Netstat, etc. with the intent to harm the network system and hamper its operation.\n\n
+    ● EMAIL HACKING −> It includes getting unauthorized access on an Email account and using it without taking the consent of its owner.\n\n
+    ● ETHICAL HACKING −> Ethical hacking involves finding weaknesses in a computer or network system for testing purpose and finally getting them fixed.\n\n
+    ● PASSWORD HACKING −> This is the process of recovering secret passwords from data that has been stored in or transmitted by a computer system.\n\n
+    ● COMPUTER HACKING −> This is the process of stealing computer ID and password by applying hacking methods and getting unauthorized access to a computer system.
+    </string>
+
+    <string name="typesofhackers">
+        Hackers can be classified into different categories such as white hat, black hat, and grey hat, based on their intent of hacking a system. These different terms come from old Spaghetti Westerns, where the bad guy wears a black cowboy hat and the good guy wears a white hat.\n\n
+    White Hat Hackers\nWhite Hat hackers are also known as Ethical Hackers. They never intent to harm a system, rather they try to find out weaknesses in a computer or a network system as a part of penetration testing and vulnerability assessments. Ethical hacking is not illegal and it is one of the demanding jobs available in the IT industry. There are numerous companies that hire ethical hackers for penetration testing and vulnerability assessments.\n\n
+    Black Hat Hackers\nBlack Hat hackers, also known as crackers, are those who hack in order to gain unauthorized access to a system and harm its operations or steal sensitive information. Black Hat hacking is always illegal because of its bad intent which includes stealing corporate data, violating privacy, damaging the system, blocking network communication, etc.\n\n
+    Grey Hat Hackers\nGrey hat hackers are a blend of both black hat and white hat hackers. They act without malicious intent but for their fun, they exploit a security weakness in a computer system or network without the owner’s permission or knowledge. Their intent is to bring the weakness to the attention of the owners and getting appreciation or a little bounty from the owners.\n\n
+    Miscellaneous Hackers\nApart from the above well-known classes of hackers, we have the following categories of hackers based on what they hack and how they do it −\n
+    ● Red Hat Hackers -> Red hat hackers are again a blend of both black hat and white hat hackers. They are usually on the level of hacking government agencies, top-secret information hubs, and generally anything that falls under the category of sensitive information.\n
+    ● Blue Hat Hackers -> A blue hat hacker is someone outside computer security consulting firms who is used to bug-test a system prior to its launch. They look for loopholes that can be exploited and try to close these gaps. Microsoft also uses the term BlueHat to represent a series of security briefing events.\n
+    ● Elite Hackers -> This is a social status among hackers, which is used to describe the most skilled. Newly discovered exploits will circulate among these hackers.\n
+    ● Script Kiddie -> A script kiddie is a non-expert who breaks into computer systems by using pre-packaged automated tools written by others, usually with little understanding of the underlying concept, hence the term Kiddie.\n
+    ● Neophyte -> A neophyte, \"n00b\", or \"newbie\" or \"Green Hat Hacker\" is someone who is new to hacking or phreaking and has almost no knowledge or experience of the workings of technology and hacking.\n
+    ● Hacktivist -> A hacktivist is a hacker who utilizes technology to announce a social, ideological, religious, or political message. In general, most hacktivism involves website defacement or denialof-service attacks.
+    </string>
+
+    <string name="linux">Linux is the most widely used server operating system, especially for web servers. It is open source; this means anybody can have access to the source code. This makes it less secure compared to other operating systems as attackers can study the source code to find vulnerabilities.\nLinux Hacking is about exploiting these vulnerabilities to gain unauthorized access to a system.</string>
+    <string name="linux_quicknote">Linux is an open source operating system. There are many distributions of Linux-based operating systems such as Redhat, Fedora, and Ubuntu, etc. Unlike other operating system, Linux is less secure when it comes to security. This is because the source code is available freely, so it is easy to study it for vulnerabilities and exploit them compared to other operating systems that are not open source. Linux can be used as a server, desktop, tablet, or mobile device operating system.
+    \n\nLinux programs can be operated using either GUI or commands. The commands are more effective and efficient compared to using the GUI. For this reason, it helps to know Linux basic commands.
+    </string>
+
+    <string name="terminologies">
+        Following is a list of important terms used in the field of hacking:-\n\n
+        ADWARE− Adware is software designed to force pre-chosen ads to display on your system.\n\n
+        ATTACK− An attack is an action that is done on a system to get its access and extract sensitive data.\n\n
+        BACK DOOR − A back door, or trap door, is a hidden entry to a computing device or software that bypasses security measures, such as logins and password protections.\n\n
+        BOT − A bot is a program that automates an action so that it can be done repeatedly at a much higher rate for a more sustained period than a human operator could do it. For example, sending HTTP, FTP or Telnet at a higher rate or calling script to create objects at a higher rate.\n\n
+        BOTNET − A botnet, also known as zombie army, is a group of computers controlled without their owners’ knowledge. Botnets are used to send spam or make denial of service attacks.\n\n
+        BRUTE FORCE ATTACK − A brute force attack is an automated and the simplest kind of method to gain access to a system or website. It tries different combination of usernames and passwords, over and over again, until it gets in.\n\n
+        BUFFER OVERFLOW− Buffer Overflow is a flaw that occurs when more data is written to a block of memory, or buffer, than the buffer is allocated to hold.\n\n
+        CLONE PHISHING− Clone phishing is the modification of an existing, legitimate email with a false link to trick the recipient into providing personal information.\n\n
+        CRACKER − A cracker is one who modifies the software to access the features which are considered undesirable by the person cracking the software, especially copy pro\n\ntection features.
+        DENIAL OF SERVICE − A denial of service (DoS) attack is a malicious attempt to make a server or a network resource unavailable to users, usually by temporarily interrupting or suspending the services of a host connected to the Internet.\n\n
+        DDOS − Distributed denial of service attack.\n\n
+        EXPLOIT KIT − An exploit kit is software system designed to run on web servers, with the purpose of identifying software vulnerabilities in client machines communicating with it and exploiting discovered vulnerabilities to upload and execute malicious code on the client.\n\n
+        EXPLOIT − Exploit is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability to compromise the security of a computer or network system.\n\n
+        FIREWALL − A firewall is a filter designed to keep unwanted intruders outside a computer system or network while allowing safe communication between systems and users on the inside of the firewall.\n\n
+        KEYSTROKE LOGGING − Keystroke logging is the process of tracking the keys which are pressed on a computer (and which touchscreen points are used). It is simply the map of a computer/human interface. It is used by gray and black hat hackers to record login IDs and passwords. Keyloggers are usually secreted onto a device using a Trojan delivered by a phishing email.\n\n
+        LOGIC BOMB − A virus secreted into a system that triggers a malicious action when certain conditions are met. The most common version is the time bomb.\n\n
+        MALWARE − Malware is an umbrella term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, worms, Trojan horses, ransomware, spyware, adware, scareware, and other malicious programs.\n\n
+        MASTER PROGRAM − A master program is the program a black hat hacker uses to remotely transmit commands to infected zombie drones, normally to carry out Denial of Service attacks or spam attacks.\n\n
+        PHISHING − Phishing is an e-mail fraud method in which the perpetrator sends out legitimate-looking emails, in an attempt to gather personal and financial information from recipients.\n\n
+        PHREAKER − Phreakers are considered the original computer hackers and they are those who break into the telephone network illegally, typically to make free longdistance phone calls or to tap phone lines.\n\n
+        ROOTKIT − Rootkit is a stealthy type of software, typically malicious, designed to hide the existence of certain processes or programs from normal methods of detection and enable continued privileged access to a computer.\n\n
+        SHRINK WRAP CODE − A Shrink Wrap code attack is an act of exploiting holes in unpatched or poorly configured software.\n\n
+        SOCIAL ENGINEERING − Social engineering implies deceiving someone with the purpose of acquiring sensitive and personal information, like credit card details or user names and passwords.\n\n
+        SPAM − A Spam is simply an unsolicited email, also known as junk email, sent to a large number of recipients without their consent.\n\n
+        SPOOFING − Spoofing is a technique used to gain unauthorized access to computers, whereby the intruder sends messages to a computer with an IP address indicating that the message is coming from a trusted host.\n\n
+        SPYWARE − Spyware is software that aims to gather information about a person or organization without their knowledge and that may send such information to another entity without the consumer\'s consent, or that asserts control over a computer without the consumer\'s knowledge.\n\n
+        SQL INJECTION − SQL injection is an SQL code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).\n\n
+        THREAT − A threat is a possible danger that can exploit an existing bug or vulnerability to compromise the security of a computer or network system.\n\n
+        TROJAN − A Trojan, or Trojan Horse, is a malicious program disguised to look like a valid program, making it difficult to distinguish from programs that are supposed to be there designed with an intention to destroy files, alter information, steal passwords or other information.\n\n
+        VIRUS − A virus is a malicious program or a piece of code which is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.\n\n
+        VULNERABILITY − A vulnerability is a weakness which allows a hacker to compromise the security of a computer or network system.\n\n
+        WORMS − A worm is a self-replicating virus that does not alter files but resides in active memory and duplicates itself.\n\n
+        CROSS-SITE SCRIPTING - Cross-site scripting (XSS) is a type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side script into web pages viewed by other users.\n\n
+        ZOMBIE DRONE − A Zombie Drone is defined as a hi-jacked computer that is being used anonymously as a soldier or \'drone\' for malicious activity, for example, distributing unwanted spam e-mails.\n\n
+    </string>
+
+    <string name="tools">
+        In this chapter, we will discuss in brief some of famous tools that are widely used to prevent hacking and getting unauthorized access to a computer or network system.
+    </string>
+
+    <string name="nmap">
+        Nmap stands for Network Mapper. It is an open source tool that is used widely for network discovery and security auditing. Nmap was originally designed to scan large networks, but it can work equally well for single hosts. Network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.\n
+        Nmap uses raw IP packets to determine −\n
+        -> what hosts are available on the network,\n
+        -> what services those hosts are offering,\n
+        -> what operating systems they are running on,\n
+        -> what type of firewalls are in use, and other such characteristics.
+        \nNmap runs on all major computer operating systems such as Windows, Mac OS X, and Linux.
+    </string>
+
+    <string name="metasploit">
+        Metasploit is one of the most powerful exploit tools. It\’s a product of Rapid7 and most of its resources can be found at: www.metasploit.com. It comes in two versions − commercial and free edition. Matasploit can be used with command prompt or with Web UI.\n
+        \nWith Metasploit, you can perform the following operations −\n
+        -> Conduct basic penetration tests on small networks\n
+        -> Run spot checks on the exploitability of vulnerabilities\n
+        -> Discover the network or import scan data\n
+        -> Browse exploit modules and run individual exploits on hosts</string>
+
+    <string name="burpsuite">
+        Burp Suite is a popular platform that is widely used for performing security testing of web applications. It has various tools that work in collaboration to support the entire testing process, from initial mapping and analysis of an application\'s attack surface, through to finding and exploiting security vulnerabilities.
+        \nBurp is easy to use and provides the administrators full control to combine advanced manual techniques with automation for efficient testing. Burp can be easily configured and it contains features to assist even the most experienced testers with their work.
+    </string>
+
+    <string name="wireshark">
+        Wireshark is the world\’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. Wireshark development thrives thanks to the volunteer contributions of networking experts around the globe and is the continuation of a project started by Gerald Combs in 1998.
+        \n\nWireshark has a rich feature set which includes the following:\n
+        -> Deep inspection of hundreds of protocols, with more being added all the time\n
+        -> Live capture and offline analysis\n
+        -> Standard three-pane packet browser\n
+        -> Multi-platform: Runs on Windows, Linux, macOS, Solaris, FreeBSD, NetBSD, and many others\n
+        -> Captured network data can be browsed via a GUI, or via the TTY-mode TShark utility\n
+        -> The most powerful display filters in the industry\n
+        -> Rich VoIP analysis\n
+        -> Read/write many different capture file formats: tcpdump (libpcap), Pcap NG, Catapult DCT2000, Cisco Secure IDS iplog, Microsoft Network Monitor, Network General Sniffer® (compressed and uncompressed), Sniffer® Pro, and NetXray®, Network Instruments Observer, NetScreen snoop, Novell LANalyzer, RADCOM WAN/LAN Analyzer, Shomiti/Finisar Surveyor, Tektronix K12xx, Visual Networks Visual UpTime, WildPackets EtherPeek/TokenPeek/AiroPeek, and many others\n
+        -> Capture files compressed with gzip can be decompressed on the fly\n
+        -> Live data can be read from Ethernet, IEEE 802.11, PPP/HDLC, ATM, Bluetooth, USB, Token Ring, Frame Relay, FDDI, and others (depending on your platform)\n
+        -> Decryption support for many protocols, including IPsec, ISAKMP, Kerberos, SNMPv3, SSL/TLS, WEP, and WPA/WPA2\n
+        -> Coloring rules can be applied to the packet list for quick, intuitive analysis\n
+        -> Output can be exported to XML, PostScript, CSV, or plain text
+    </string>
+
+    <string name="angryipscanner">
+        Angry IP scanner is a lightweight, cross-platform IP address and port scanner. It can scan IP addresses in any range. It can be freely copied and used anywhere. In order to increase the scanning speed, it uses multithreaded approach, wherein a separate scanning thread is created for each scanned IP address.
+        \nAngry IP Scanner simply pings each IP address to check if it’s alive, and then, it resolves its hostname, determines the MAC address, scans ports, etc. The amount of gathered data about each host can be saved to TXT, XML, CSV, or IP-Port list files. With help of plugins, Angry IP Scanner can gather any information about scanned IPs.
+    </string>
+
+    <string name="cain_and_abel">
+        Cain &amp; Abel is a password recovery tool for Microsoft Operating Systems. It helps in easy recovery of various kinds of passwords by employing any of the following methods −\n
+        -> sniffing the network,\n
+        -> cracking encrypted passwords using Dictionary, Brute-Force and Cryptanalysis attacks,\n
+        -> recording VoIP conversations,\n
+        -> decoding scrambled passwords,\n
+        -> recovering wireless network keys,\n
+        -> revealing password boxes,\n
+        -> uncovering cached passwords and analyzing routing protocols.\n\n
+        Cain &amp; Abel is a useful tool for security consultants, professional penetration testers and everyone else who plans to use it for ethical reasons.
+    </string>
+
+    <string name="ettercap">
+        Ettercap stands for Ethernet Capture. It is a network security tool for Man-in-the-Middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. Ettercap has inbuilt features for network and host analysis. It supports active and passive dissection of many protocols.
+        You can run Ettercap on all the popular operating systems such as Windows, Linux, and Mac OS X.
+    </string>
+
+    <string name="superscan">
+        SuperScan is a powerful tool for network administrators to scan TCP ports and resolve hostnames. It has a user friendly interface that you can use to −\n
+        -> Perform ping scans and port scans using any IP range.\n
+        -> Scan any port range from a built-in list or any given range.\n
+        -> View responses from connected hosts.\n
+        -> Modify the port list and port descriptions using the built in editor.\n
+        -> Merge port lists to build new ones.\n
+        -> Connect to any discovered open port.\n
+        -> Assign a custom helper application to any port.
+    </string>
+
+    <string name="webinspect">
+        WebInspect is a web application security assessment tool that helps identify known and unknown vulnerabilities within the Web application layer.
+        \nIt can also help check that a Web server is configured properly, and attempts common web attacks such as parameter injection, cross-site scripting, directory traversal, and more.
+    </string>
+
+    <string name="networkstumbler">
+        Network stumbler is a WiFi scanner and monitoring tool for Windows. It allows network professionals to detect WLANs. It is widely used by networking enthusiasts and hackers because it helps you find non-broadcasting wireless networks.
+        \nNetwork Stumbler can be used to verify if a network is well configured, its signal strength or coverage, and detect interference between one or more wireless networks. It can also be used to non-authorized connections.
+    </string>
+
+    <string name="skills">
+        As an ethical hacker, you will need to understand various hacking techniques such as −\n
+        -> Password guessing and cracking\n
+        -> Session hijacking\n
+        -> Session spoofing\n
+        -> Network traffic sniffing\n
+        -> Denial of Service attacks\n
+        -> Exploiting buffer overflow vulnerabilities\n
+        -> SQL injection\n\n
+        In this chapter, we will discuss some of the skills that you would require to become an expert in Ethical Hacking.
+    </string>
+
+    <string name="basic_skills">
+        Computer Hacking is a Science as well as an Art. Like any other expertise, you need to put a lot of effort in order to acquire knowledge and become an expert ethical hacker. Once you are on the track, you would need more effort to keep up-to-date with latest technologies, new vulnerabilities and exploitation techniques.\n\n
+        -> An ethical hacker must be a computer systems expert and needs to have very strong programming and computer networking skills.\n
+        -> An ethical hacker needs to have a lot of patience, persistence, and perseverance to try again and again and wait for the required result.\n\n
+        Additionally, an ethical hacker should be smart enough to understand the situation and other users’ mind-set in order to apply social engineering exploits. A good ethical hacker has great problem-solving skills too.
+    </string>
+
+    <string name="coursescertifications">
+        This tutorial provides the basic guidelines to become a successful Ethical Hacker. If you want to excel in this field, then you might choose to pursue the following courses and certifications −\n
+        -> Obtain a bachelor\’s degree in Computer Science or A+ Certificate to gain an understanding of the most common hardware and software technologies.\n
+        -> Get into a programmer\’s role for a few years and then switch to get a tech support position.\n
+        -> Proceed to get network certifications like Network+ or CCNA and then security certifications like Security+, CISSP, or TICSA.\n
+        -> It is recommended that you get some work experience as a Network Engineer and System Administrator to understand networks and systems inside out.\n
+        -> Keep going through various books, tutorials and papers to understand various computer security aspects and take them as a challenge to secure your network and computer systems as network security engineer.\n
+        -> Study courses which cover creating Trojan horses, backdoors, viruses, and worms, denial of service (DoS) attacks, SQL injection, buffer overflow, session hijacking, and system hacking.\n
+        -> Master the art of penetration testing, footprinting and reconnaissance, and social engineering.\n
+        -> Finally go for a Certified Ethical Hacker (CEH) Certification.\n\n
+        GIAC (Global Information Assurance Certification) and Offensive Security Certified Professional (OSCP) are additional IT security certifications which will add a lot of value to your profile.
+    </string>
+
+    <string name="finalnote">
+        You need to stay as a White Hat Hacker which means you need to work within given boundaries. Never intrude or attack any computer or network without a required permission from the authorities.
+        \nAs a final note, it is highly recommended that you refrain from engaging yourself in black hat hacking which may spoil your entire career.
+    </string>
+
+    <string name="process">
+        Like all good projects, ethical hacking too has a set of distinct phases. It helps hackers to make a structured ethical hacking attack.\n
+        Different security training manuals explain the process of ethical hacking in different ways, but for me as a Certified Ethical Hacker, the entire process can be categorized into the following six phases.
+    </string>
+    <string name="recon">
+        Reconnaissance is the phase where the attacker gathers information about a target using active or passive means. The tools that are widely used in this process are NMAP, Hping, Maltego, and Google Dorks.
+    </string>
+    <string name="scanning">
+        In this process, the attacker begins to actively probe a target machine or network for vulnerabilities that can be exploited. The tools used in this process are Nessus, Nexpose, and NMAP.
+    </string>
+    <string name="gainingaccess">
+        In this process, the vulnerability is located and you attempt to exploit it in order to enter into the system. The primary tool that is used in this process is Metasploit.
+    </string>
+    <string name="maintainingaccess">
+        It is the process where the hacker has already gained access into a system. After gaining access, the hacker installs some backdoors in order to enter into the system when he needs access in this owned system in future. Metasploit is the preferred tool in this process.
+    </string>
+    <string name="clearingtracks">
+        This process is actually an unethical activity. It has to do with the deletion of logs of all the activities that take place during the hacking process.
+    </string>
+    <string name="reporting">
+        Reporting is the last step of finishing the ethical hacking process. Here the Ethical Hacker compiles a report with his findings and the job that was done such as the tools used, the success rate, vulnerabilities found, and the exploit processes.
+    </string>
+    <string name="quicktip">
+        The processes are not standard. You can adopt a set of different processes and tools according to your techniques that you are comfortable with. The process is of least significance as long as you are able to get the desired results.
+    </string>
+
+    <string name="reconnaissance">
+        Information Gathering and getting to know the target systems is the first process in ethical hacking. Reconnaissance is a set of processes and techniques (Footprinting, Scanning &amp; Enumeration) used to covertly discover and collect information about a target system.\n\n
+        During reconnaissance, an ethical hacker attempts to gather as much information about a target system as possible, following the seven steps listed below −\n
+        -> Gather initial information\n
+        -> Determine the network range\n
+        -> Identify active machines\n
+        -> Discover open ports and access points\n
+        -> Fingerprint the operating system\n
+        -> Uncover services on ports\n
+        -> Map the network\n\n
+        Reconnaissance takes place in two parts − Active Reconnaissance and Passive Reconnaissance.
+    </string>
+    <string name="activerecon">
+        In this process, you will directly interact with the computer system to gain information. This information can be relevant and accurate. But there is a risk of getting detected if you are planning active reconnaissance without permission. If you are detected, then system admin can take severe action against you and trail your subsequent activities.
+    </string>
+    <string name="passiverecon">
+        In this process, you will not be directly connected to a computer system. This process is used to gather essential information without ever interacting with the target systems.
+    </string>
+
+
+</resources>

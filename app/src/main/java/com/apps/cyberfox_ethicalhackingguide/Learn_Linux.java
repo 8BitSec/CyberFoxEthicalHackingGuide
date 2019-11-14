@@ -22,7 +22,8 @@ public class Learn_Linux extends AppCompatActivity {
         cmds.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //Intent intent = new Intent(
+                Intent intent = new Intent(Learn_Linux.this,Linux_Cmds.class);
+                startActivity(intent);
             }
         });
     }
